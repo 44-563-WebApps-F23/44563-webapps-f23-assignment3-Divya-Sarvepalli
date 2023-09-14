@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 
-<a heref="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-Divya-Sarvepalli/settings/pages">Hosted at</a>
+<a href="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-Divya-Sarvepalli/settings/pages">Hosted at</a>
